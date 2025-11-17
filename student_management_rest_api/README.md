@@ -50,7 +50,7 @@ Fields:
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone [text](https://github.com/dilshi126/Student-Management-REST-API.git)
 cd student-api
 ```
 
