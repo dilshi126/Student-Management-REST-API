@@ -51,7 +51,7 @@ Fields:
 1. Clone the repository
 ```bash
 git clone https://github.com/dilshi126/Student-Management-REST-API.git
-cd student-api
+cd Student-Management-REST-API
 ```
 
 2. Build the project
@@ -341,7 +341,7 @@ src/
 
 ## Author
 
-[Your Name]
+W.M.D.P.Wijesinghe
 
 ## License
 
